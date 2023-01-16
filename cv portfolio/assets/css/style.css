@@ -93,7 +93,7 @@ section.sec2 {
 
 section.sec3 {
 	height:auto;
-	background:url('../images/wallpaper.JPG')center ;
+	background:url('../images/wallpaper.jpg')center ;
 	background-size : cover;
   background-repeat:no-repeat;
   background-attachment:fixed;
